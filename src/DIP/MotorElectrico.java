@@ -1,3 +1,5 @@
+package DIP;
+
 public class MotorElectrico implements Motor{
 
     @Override
